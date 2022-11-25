@@ -13,9 +13,9 @@ LOG_CHANNEL=daily
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=protennisfitness_portal
-DB_USERNAME=ptf_root
-DB_PASSWORD=Jc0s4!t6
+DB_DATABASE=gseverinapp_protennisfitness_portal
+DB_USERNAME=gseverinapp_gseverinapp
+DB_PASSWORD=L3!Ax@dfr*lY
 
 BROADCAST_DRIVER=logb
 CACHE_DRIVER=file
