@@ -29,7 +29,7 @@ REDIS_PASSWORD=null
 REDIS_PORT=6379
 
 MAIL_DRIVER=smtp
-MAIL_HOST=mail.protennisfitness.com
+MAIL_HOST=vps74010.inmotionhosting.com
 MAIL_PORT=587
 MAIL_USERNAME=info@protennisfitness.com
 MAIL_PASSWORD=Wog*j705
